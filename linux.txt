@@ -1,5 +1,6 @@
 ## LINUX COMMAND
 
+Notes:
 ##DIRECTORY
 
     sudo - super user do
